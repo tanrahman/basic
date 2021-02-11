@@ -1,0 +1,1 @@
+../stx/test/run.sh

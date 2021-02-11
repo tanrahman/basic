@@ -1,0 +1,82 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "aob.o",
+            "aob.c"
+        ],
+        "directory": "/home/victor/scan_code/basic",
+        "file": "aob.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "npd.o",
+            "npd.c"
+        ],
+        "directory": "/home/victor/scan_code/basic",
+        "file": "npd.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "uiv.o",
+            "uiv.c"
+        ],
+        "directory": "/home/victor/scan_code/basic",
+        "file": "uiv.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "dbf.o",
+            "dbf.c"
+        ],
+        "directory": "/home/victor/scan_code/basic",
+        "file": "dbf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "msf.o",
+            "msf.c"
+        ],
+        "directory": "/home/victor/scan_code/basic",
+        "file": "msf.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-o",
+            "uaf.o",
+            "uaf.c"
+        ],
+        "directory": "/home/victor/scan_code/basic",
+        "file": "uaf.c"
+    },
+    {
+        "arguments": [
+            "ar",
+            "crv",
+            "basic.a",
+            "uiv.o",
+            "npd.o",
+            "aob.o",
+            "msf.o",
+            "dbf.o",
+            "uaf.o"
+        ],
+        "directory": "/home/victor/scan_code/basic"
+    }
+]
